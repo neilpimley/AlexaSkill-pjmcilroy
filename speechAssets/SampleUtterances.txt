@@ -1,0 +1,4 @@
+SearcdhForProperties "find {bedrooms} bedroom houses in {town} under {maxPrice}"
+SearcdhForProperties "find {bedrooms} bedroom houses in {town}"
+SearcdhForProperties "find houses in {town}"
+SearcdhForProperties "find houses in {town} under {maxPrice}"
